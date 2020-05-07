@@ -18,3 +18,7 @@ ABC INC. contacted D Cube to help them understand the current market scenario in
 
 Data Set
 You are given monthly sales data of various drugs in Diabetes Market for the past two years. Drugs are grouped in to Product family which further rolls up to Product Class. This is done based on the molecular composition of the drugs. Each line item will tell you monthly TRx Count, MBS $ and NRx Count of a particular drug.
+
+
+#Input File is :
+1. Pre Launch Case Study Data.xlsx
