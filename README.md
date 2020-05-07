@@ -1,3 +1,10 @@
+# Required
+MS Excel
+Powerpoint
+Python
+Jupyter Notebook
+
+
 # Problem Statement
 ABC INC. is a small Bio-Pharma company and is preparing for the launch of its first drug in Type-2 Diabetes Market. 
 Diabetes Market is segmented in a Product Class and Families based on their molecular composition. The patient is prescribed a drug from a particular class based on various factors like Age, Stage of disease etc. The client is launching their drug in GLP1 class and considers products within GLP1 and SGLT class as their key competitor.
